@@ -3,7 +3,7 @@
 A simple and fun **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**.
 
 ## 🎮 Features
-- Two-player gameplay
+- Two-player+AI gameplay
 - Win & draw detection
 - Reset game functionality
 - Responsive UI
